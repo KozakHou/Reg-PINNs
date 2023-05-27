@@ -7,6 +7,8 @@ The ultimate goal of studying the magnetopause position is to accurately determi
 The methodology presented in this study is not only applicable to space research but can also be referenced in studies across various fields, particularly those involving empirical models.
 
 ### Re-evaluation for Bz, Dp to Alpha, r_0
-![image_bz_alpha_r0](https://github.com/KozakHou/Emp-PINNs/blob/main/Image/image_alpha_r0_bz.png)
+![image_bz_alpha_r0](https://github.com/KozakHou/Emp-PINNs/blob/main/Image/image_alpha_r0_bz.png)<img src="Image/image_alpha_r0_bz.png" alt="image_bz_alpha_r0" width="300">
 
 ![image_dp_alpha_r0](https://github.com/KozakHou/Emp-PINNs/blob/main/Image/image_alpha_r0_p.png)
+
+### 

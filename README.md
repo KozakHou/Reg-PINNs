@@ -21,3 +21,7 @@ The methodology presented in this study is not only applicable to space research
 
 ### The functional flow block diagram in this research
 <img src="Image/proposed_algorithm_ffbd.jpg" alt="ffbd">
+
+#### prediction of r for every model
+<img src="Image/image_pinn_shue.png" alt="image_pinn_shue.png">
+

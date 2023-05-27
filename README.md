@@ -23,13 +23,13 @@ The methodology presented in this study is not only applicable to space research
 <img src="Image/proposed_algorithm_ffbd.jpg" alt="ffbd">
 
 ### Training Loss
-<img src="Image/training_loss.png" alt="loss">
+<img src="Image/training_loss.png" alt="loss" width="300">
 
 
 ### prediction of r for every model
 <div style="display: flex; align-items: center;">
   <img src="Image/image_shue.png" alt="圖片2描述" style="width: 300px; height: auto;">
-  <img src="Image/proposed_numerical.jpg" alt="圖片2描述" style="width: 300px; height: auto;">
+  <img src="Image/image_proposed.png" alt="圖片2描述" style="width: 300px; height: auto;">
   <img src="Image/image_nn.png" alt="圖片2描述" style="width: 300px; height: auto;">
   <img src="Image/image_pinn_shue.png" alt="圖片1描述" style="width: 300px; height: auto;">
   <img src="Image/image_pinn_hou.png" alt="圖片2描述" style="width: 300px; height: auto;">

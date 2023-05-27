@@ -12,4 +12,12 @@ The methodology presented in this study is not only applicable to space research
 <img src="Image/image_alpha_r0_bz.png" alt="image_dp_alpha_r0" width="500">
 
 ### Proposed Numerical Model
-<img src="Image/proposed_numerical.jpg" alt="image_dp_alpha_r0">
+<img src="Image/proposed_numerical.jpg" alt="proposed_numerical_model">
+
+-------------------------------------------------------------------------------------
+## General Form of Empirical Physics Informed Neural Networks (Emp-PINNs)
+<img src="algorithm.png" alt="image_dp_alpha_r0">
+
+
+### The functional flow block diagram in this research
+<img src="proposed_algorithm_ffbd.jpg" alt="image_dp_alpha_r0">

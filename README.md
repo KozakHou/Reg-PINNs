@@ -16,8 +16,8 @@ The methodology presented in this study is not only applicable to space research
 
 -------------------------------------------------------------------------------------
 ## General Form of Empirical Physics Informed Neural Networks (Emp-PINNs)
-<img src="algorithm.png" alt="image_dp_alpha_r0">
+<img src="algorithm.png" alt="algorithm">
 
 
 ### The functional flow block diagram in this research
-<img src="proposed_algorithm_ffbd.jpg" alt="image_dp_alpha_r0">
+<img src="proposed_algorithm_ffbd.jpg" alt="ffbd">

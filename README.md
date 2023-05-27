@@ -11,4 +11,5 @@ The methodology presented in this study is not only applicable to space research
 
 <img src="Image/image_alpha_r0_bz.png" alt="image_dp_alpha_r0" width="500">
 
-### 
+### Proposed Numerical Model
+<img src="Image/proposed_numerical.jpg" alt="image_dp_alpha_r0">

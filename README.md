@@ -44,3 +44,23 @@ The methodology presented in this study is not only applicable to space research
 <img src="Image/image_dp.png" alt="ffbd">
 
 <img src="Image/image_angle.png" alt="ffbd">
+
+
+# Conclusion
+- We re-evaluate the relationship between parameters (Bz, Dp) and 𝑟_0   and 𝛼, and propose alternative types of numerical models.
+
+- The proposed algorithm (Emp-PINNs) resolves the issues of numerical methods' inherent lack of precision and the poor generalization capabilities of machine learning.
+
+
+- Emp-PINNs is an algorithm that constrains vanilla neural networks to converge on predictions and enhances generalization by excluding intervening outliers.
+
+- Emp – PINNs is capable of handling multivariate input and multivariate output. However, in this study, we only focus on discussing the prediction of magnetopause locations in the space domain, considering multivariate inputs and a single output.
+
+- The proposed Emp-PINNs introduced in this study allows the incorporation of algebraic equations for model training, expanding the capabilities of traditional PINNs, which primarily focus on solving ordinary and partial differential equations (ODEs and PDEs).
+
+- Emp-PINNs greatly improve the model's performance in predicting the location of the Magnetopause, achieving a remarkably improvement of 29.8 %.
+
+- L1 (Lasso), L2 (Ridge), and Elastic regularization techniques show a significant improvement in predicting the variable r when Bz varies..
+
+- Emp-PINNs significantly improves the precision within the applicable scope of Shue et al. [1998].
+

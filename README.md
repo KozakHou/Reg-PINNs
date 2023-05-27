@@ -33,6 +33,14 @@ The methodology presented in this study is not only applicable to space research
   <img src="Image/image_nn.png" alt="圖片2描述" style="width: 300px; height: auto;">
   <img src="Image/image_pinn_shue.png" alt="圖片1描述" style="width: 300px; height: auto;">
   <img src="Image/image_pinn_hou.png" alt="圖片2描述" style="width: 300px; height: auto;">
-  
 </div>
 
+
+## Evaluation
+<img src="Image/image_appli.png" alt="ffbd">
+
+<img src="Image/iamge_bz.png" alt="ffbd">
+
+<img src="Image/image_dp.png" alt="ffbd">
+
+<img src="Image/image_angle.png" alt="ffbd">

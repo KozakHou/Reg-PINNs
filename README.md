@@ -47,9 +47,9 @@ The methodology presented in this study is not only applicable to space research
 
 
 # Conclusion
-- We re-evaluate the relationship between parameters (Bz, Dp) and 𝑟_0   and 𝛼, and propose alternative types of numerical models.
+- We re-evaluate the relationship between parameters (Bz, Dp) and 𝑟_0   and 𝛼, and propose alternative types of empirical models.
 
-- The proposed algorithm (Emp-PINNs) resolves the issues of numerical methods' inherent lack of precision and the poor generalization capabilities of machine learning.
+- The proposed algorithm (Emp-PINNs) resolves the issues of empirical methods' inherent lack of precision and the poor generalization capabilities of machine learning.
 
 
 - Emp-PINNs is an algorithm that constrains vanilla neural networks to converge on predictions and enhances generalization by excluding intervening outliers.

@@ -16,7 +16,7 @@ The methodology presented in this study is not only applicable to space research
 
 -------------------------------------------------------------------------------------
 ## General Form of Regression-based Physics Informed Neural Networks (Reg-PINNs)
-<img src="Image/revised_algorithm.png" alt="algorithm" width="410" height="500">
+<img src="Image/recised_algorithm.png" alt="algorithm" width="410" height="500">
 
 
 ### The functional flow block diagram in this research
